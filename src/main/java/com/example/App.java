@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World Again, this is coming from  a commit change !" );
+        System.out.println( "Hello World, this is coming from  a commit change !" );
     }
 }
